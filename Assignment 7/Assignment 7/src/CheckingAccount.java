@@ -3,6 +3,11 @@
 // SPECIFICATION: Learning to use polymorphism and inheritance.
 // FOR: CS 1400 - ASSIGNMENT #7
 // TIME SPENT: 45 minutes.
+
+/**
+ * Represents a checking account with additional features like transaction counts and fees.
+ * Inherits from the BankAccount class and extends it with checking account-specific features.
+ */
 public class CheckingAccount extends BankAccount{
     private int transactionCount;
     private final int FREE_TRANSACTIONS = 3;
