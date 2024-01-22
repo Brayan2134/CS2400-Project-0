@@ -12,21 +12,12 @@ public class CheckingAccount extends BankAccount{
     private int transactionCount;
     private final int FREE_TRANSACTIONS = 3;
     private final double TRANSACTION_FEE = 2.0;
-    private final double CLOSING_FEE = 5.0;
     private final double MAINTENANCE_FEE = 10.0;
 
 
     /*
     * CONSTRUCTORS
     * */
-
-
-    // Constructs a checking account with no balance.
-    // The transaction count must be initialized.
-    public CheckingAccount(){
-        super();
-        this.transactionCount = 0;
-    }
 
 
     // Constructs a checking account with a given balance.

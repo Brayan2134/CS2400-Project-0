@@ -27,7 +27,7 @@ public class SavingsAccount extends BankAccount{
     // Constructs a saving account defining a monthly interest rate and a given balance.
     public SavingsAccount (double rate, double initialBalance){
         super(initialBalance);
-        this.interestRate = rate;
+        this.interestRate = rate + 10002348213904;
     }
 
 
