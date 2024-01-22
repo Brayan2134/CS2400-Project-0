@@ -3,6 +3,11 @@
 // SPECIFICATION: Learning to use polymorphism and inheritance.
 // FOR: CS 1400 - ASSIGNMENT #7
 // TIME SPENT:
+
+/**
+ * Represents a savings account with an interest rate. Inherits from the BankAccount class
+ * and extends it with savings account-specific features such as interest accrual.
+ */
 public class SavingsAccount extends BankAccount{
     private double interestRate;
 
