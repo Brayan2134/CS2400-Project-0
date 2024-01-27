@@ -9,7 +9,7 @@ Brayan Quevedo Ramos
 [*Current Repo*](https://github.com/Brayan2134/CS2400-Project-0)
 
 ## Link to ScreenCast
-[Link to YouTube Video](https://youtu.be/pk3prlw9YIE)
+[Link to YouTube Video](https://youtu.be/whZn9zWO0FU)
 
 ## Recording Software
  - **Recording Software** OBS Studio 30.0.2
